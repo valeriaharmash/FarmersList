@@ -1,6 +1,6 @@
 // Import Classes Here
 
-
+const Product = require('../FarmersList/classes/Product')
 
 
 
